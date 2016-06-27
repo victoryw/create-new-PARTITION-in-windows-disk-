@@ -1,0 +1,1 @@
+diskpart.exe /s createEdisk.txt > logfile.txt
